@@ -16,7 +16,6 @@ venv/
 media/
 
 # folders
-static/
 build/
 dist/
 
